@@ -41,11 +41,13 @@ function setup() {
       <button>Code seems poorly designed</button>
       <button>Code seems inefficient</button>
       <button>I don’t understand</button>
+      <button>Can you try without using this symbol?</button>
       <button>I'm done, it's your turn</button>
 
       <h3>Synthesizer</h3>
       <button>Please add another example</button>
       <button>Please write more code</button>
+      <button>For posterity, why?</button>
       <button>I'm done, it's your turn</button>
     </div>`
   )
